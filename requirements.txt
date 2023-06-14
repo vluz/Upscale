@@ -2,4 +2,3 @@ numpy
 Pillow
 streamlit
 torch
-git+https://github.com/sberbank-ai/Real-ESRGAN.git
