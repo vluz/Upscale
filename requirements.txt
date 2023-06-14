@@ -1,7 +1,5 @@
-numpy==1.23.5
-Pillow==9.5.0
-Pillow==9.5.0
-RealESRGAN==1.0
-RealESRGAN==0.3.0
-streamlit==1.22.0
-torch==2.0.1+cu118
+numpy
+Pillow
+streamlit
+torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+git+https://github.com/sberbank-ai/Real-ESRGAN.git
