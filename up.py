@@ -7,6 +7,7 @@ import numpy as np
 from RealESRGAN import RealESRGAN
 
 
+@st.cache_resource
 def loadmodel():
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
     model = RealESRGAN(device, scale=4)
