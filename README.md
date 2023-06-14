@@ -31,6 +31,8 @@ App will open on your default browser
 
 <hr>
 
+Click on images to open in new tab
+
 ### Example input:
 ![Input](photo.jpg?raw=true "Input")
 
