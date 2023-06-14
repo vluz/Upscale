@@ -27,6 +27,8 @@ and download RealESRGAN_x4.pth to the same folder as script
 To run do:<br>
 `streamlit run up.py` 
 
+App will open on your default browser
+
 <hr>
 
 ### Example input:
