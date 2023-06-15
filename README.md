@@ -25,7 +25,7 @@ pip install -r requirements.txt
 
 Go to https://huggingface.co/ai-forever/Real-ESRGAN/blob/a86fc6182b4650b4459cb1ddcb0a0d1ec86bf3b0/RealESRGAN_x4.pth
 <br>
-and download RealESRGAN_x4.pth to the same folder as script
+and download RealESRGAN_x4.pth to the same folder as the script
 
 To run do:<br>
 `streamlit run up.py` 
